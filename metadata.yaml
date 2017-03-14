@@ -1,5 +1,5 @@
 _repo: Three-Prayers-and-Sermons_4738
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -9,6 +9,9 @@ contributor:
       gutenberg_agent_id: '1355'
       url: http://www.gutenberg.org/2009/agents/1355
       wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+covers:
+- cover_type: archival
+  image_path: 4738-h/images/coverb.jpg
 creator:
   author:
     agent_name: Swift, Jonathan
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4738#Three-Prayers-and-Sermons
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
