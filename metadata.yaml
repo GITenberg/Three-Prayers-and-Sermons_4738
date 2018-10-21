@@ -1,5 +1,5 @@
 _repo: Three-Prayers-and-Sermons_4738
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -41,6 +41,7 @@ subjects:
 - !lcsh 'Trinity -- Early works to 1800'
 - !lcsh 'Obedience'
 - !lcsh 'Sermons, English -- 18th century'
+- GITenberg
 tableOfContents: I. On mutual subjection. — II. On conscience. — III. On the Trinity.
 title: Three Prayers and Sermons
 url: http://www.gutenberg.org/ebooks/4738
